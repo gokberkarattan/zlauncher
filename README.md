@@ -5,8 +5,6 @@
 
 # Prism Launcher, Reimagined
 
-*GitHub*
-
 </div>
 # zLauncher
 
