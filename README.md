@@ -7,7 +7,7 @@
 
 </div>
 
-## zLauncher
+# zLauncher
 
 A modern, open-source Minecraft launcher built with Electron. It downloads and installs Minecraft versions, mod loaders, mods and modpacks, manages Java runtimes automatically, and launches the game from a clean dark-themed desktop UI.
 ## Features
